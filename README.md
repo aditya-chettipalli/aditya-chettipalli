@@ -1,5 +1,5 @@
 # Hi there, I'm Aditya Chettipalli 👋  
-### Turning Data into Insights | Analytics • BI • Automation
+### Turning Data into Actionable Insights | Analytics • BI • Automation
 
 📊 Data Analyst with 3+ years of experience across clinical trials, environmental analytics, and financial services.  
 I specialize in building data pipelines, creating dashboards, and translating complex data into actionable business insights.  
